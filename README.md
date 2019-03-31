@@ -3,6 +3,12 @@ The simplest and fastest way to create applications with a Web UI and a Python b
 
 
 ## Getting Started
+- Clone the repo and cd into the directory
+```sh
+$ git clone git@github.com:SouravJohar/getting-started-with-eel.git
+$ cd getting-started-with-eel
+```
+
 - Install eel, pyqrcode, and pyinstaller
 
 ```sh
@@ -16,7 +22,7 @@ $ python QRCode.py
 ```
 
 ## Packaging the app
-YOu can pass any valid `pyinstaller` flag in the following command to further customize the way your app is built.
+You can pass any valid `pyinstaller` flag in the following command to further customize the way your app is built.
 ```sh
 $ python -m eel web QRCode.py --noconsole --onefile -icon=barcode.icns
 ```
