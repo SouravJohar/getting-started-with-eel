@@ -1,5 +1,6 @@
 # getting-started-with-eel
 The simplest and fastest way to create applications with a Web UI and a Python backend.
+![](ui_sample.png)
 
 
 ## Getting Started
