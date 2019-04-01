@@ -16,7 +16,7 @@ $ cd getting-started-with-eel
 - Install eel, pyqrcode, and pyinstaller
 
 ```sh
-$ pip install eel pyqrcode pyinstaller
+$ pip install eel pyqrcode pyinstaller pypng
 ```
 
 - Run the app
