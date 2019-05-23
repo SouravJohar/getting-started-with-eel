@@ -28,5 +28,5 @@ $ python QRCode.py
 ## Packaging the app
 You can pass any valid `pyinstaller` flag in the following command to further customize the way your app is built.
 ```sh
-$ python -m eel web QRCode.py --noconsole --onefile --icon=barcode.icns
+$ python -m eel QRCode.py web --noconsole --onefile --icon=barcode.icns
 ```
